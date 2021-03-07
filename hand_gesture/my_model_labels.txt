@@ -1,0 +1,5 @@
+hand
+peace
+thumbs_down
+thumbs_up
+
